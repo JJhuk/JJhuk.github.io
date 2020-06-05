@@ -1,7 +1,7 @@
 # Site Settings
 encoding: UTF-8
 exclude: ["*.gem", "*.gemspec", "Gemfile", "Gemfile.lock", "node_modules", "Rakefile", "starter-kit", "vendor"]
-lang: en # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
+lang: ko-KR # Language code as defined in _data/i18n.yml. en, en-gb, en-us, zh, zh-cn, zh-tw etc.
 permalink: /blog/:year/:month/:day/:title/
 
 whitelist: [jekyll-feed, jekyll-redirect-from, jekyll-seo-tag, jekyll-sitemap]
@@ -21,12 +21,12 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jjhuk.github.io"
 baseurl: # the subpath of your site, e.g. /blog
 title: "주혁이의 코딩일기"
 description: "코딩하면서 배운것들을 올려요!"
 keywords: 'jekyll,theme,gem-based,blog'
-author: JJhuk
+author:
   name: "Juhyuk Lee"
   job_title:
   location:
