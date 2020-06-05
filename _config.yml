@@ -23,25 +23,25 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
-author:
-  name:
+title: 주혁이의 코딩일기
+description: "코딩하면서 배운것들을 올려요!"
+keywords: 'jekyll,theme,gem-based,blogㅑ'
+author: JJhuk
+  name: Juhyuk Lee
   job_title:
-  location:
-  email:
+  location: Seoul
+  email: ly0738j@gmail.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/JJhuk
     - name: instagram
       url:
     - name: linkedin
       url:
     - name: stackoverflow
-      url:
+      url: https://stackoverflow.com/users/11621162/leejuhyuk
     - name: twitter
       url: 
     - name: vk
